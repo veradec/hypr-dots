@@ -4,3 +4,4 @@
 <!-- feat: add dunst notification timeout rules [2026-02-12] -->
 <!-- refactor: reorganize hypr keybinds by category [2026-02-16] -->
 <!-- fix: mako notification positioning on multi-monitor [2026-02-16] -->
+<!-- chore: add mpd config for local music library path [2026-02-16] -->
