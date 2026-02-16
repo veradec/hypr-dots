@@ -2,3 +2,4 @@
 <!-- chore: update waybar modules order [2026-02-08] -->
 <!-- fix: kitty font size tweaked for readability [2026-02-08] -->
 <!-- feat: add dunst notification timeout rules [2026-02-12] -->
+<!-- refactor: reorganize hypr keybinds by category [2026-02-16] -->
