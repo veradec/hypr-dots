@@ -6,3 +6,4 @@
 <!-- fix: mako notification positioning on multi-monitor [2026-02-16] -->
 <!-- chore: add mpd config for local music library path [2026-02-16] -->
 <!-- feat: add imv config with slideshow keybind [2026-02-21] -->
+<!-- chore: clean up unused mpv script options [2026-02-25] -->
